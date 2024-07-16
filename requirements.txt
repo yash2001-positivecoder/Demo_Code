@@ -1,0 +1,8 @@
+langchain
+python-dotenv==1.0.0
+flask_cors
+xmltodict
+google-generativeai
+sentence-transformers==2.2.2
+pinecone-client==4.0.0
+streamlit
